@@ -1,0 +1,9 @@
+{
+	"ip":"hacky404.aternos.me",
+	"port": 35862,
+	"name": "LakshiBro",
+	"auto-night-skip":"true",
+	"login-enabled":"true",
+	"register-cmd":"/register tester360 tester360",
+	"login-cmd":"/login tester360"
+}
